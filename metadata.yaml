@@ -1,0 +1,32 @@
+_repo: Platero-y-yo_39209
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jiménez, Juan Ramón
+    aliases:
+    - Mantecón, Juan Ramón Jiménez
+    - Mantecon, Juan Ramon Jimenez
+    birthdate: 1881
+    deathdate: 1958
+    gutenberg_agent_id: '3230'
+    url: http://www.gutenberg.org/2009/agents/3230
+    wikipedia: http://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez
+description: ''
+gutenberg_issued: '2012-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39209'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Donkeys -- Fiction'
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Andalusia (Spain) -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+title: Platero y yo
+url: http://www.gutenberg.org/ebooks/39209
