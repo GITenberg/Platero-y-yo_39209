@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3230
     wikipedia: http://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39209#Platero-y-yo
 gutenberg_issued: '2012-03-20'
 gutenberg_type: Text
 identifiers:
